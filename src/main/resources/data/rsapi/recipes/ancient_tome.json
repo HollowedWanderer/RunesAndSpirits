@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:ink_sac"
+    },
+    {
+      "item": "rsapi:tanned_leather"
+    },
+    {
+      "item": "rsapi:parchment"
+    },
+    {
+      "item": "rsapi:parchment"
+    },
+    {
+      "item": "rsapi:parchment"
+    }
+  ],
+  "result": {
+    "item": "rsapi:ancient_tome",
+    "count": 1
+  }
+}

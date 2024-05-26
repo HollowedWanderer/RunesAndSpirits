@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rsapi:violet_rune"
+    },
+    {
+      "item": "rsapi:ancient_tome"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    }
+  ],
+  "result": {
+    "item": "rsapi:violet_tome",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rsapi:golden_rune"
+    },
+    {
+      "item": "rsapi:ancient_tome"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "result": {
+    "item": "rsapi:golden_tome",
+    "count": 1
+  }
+}

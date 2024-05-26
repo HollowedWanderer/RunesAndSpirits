@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rsapi:verdant_rune"
+    },
+    {
+      "item": "rsapi:ancient_tome"
+    },
+    {
+      "item": "minecraft:emerald"
+    }
+  ],
+  "result": {
+    "item": "rsapi:verdant_tome",
+    "count": 1
+  }
+}

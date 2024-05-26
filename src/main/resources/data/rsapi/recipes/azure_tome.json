@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rsapi:azure_rune"
+    },
+    {
+      "item": "rsapi:ancient_tome"
+    },
+    {
+      "item": "minecraft:lapis_lazuli"
+    }
+  ],
+  "result": {
+    "item": "rsapi:azure_tome",
+    "count": 1
+  }
+}

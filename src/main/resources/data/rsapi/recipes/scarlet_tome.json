@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rsapi:scarlet_rune"
+    },
+    {
+      "item": "rsapi:ancient_tome"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    }
+  ],
+  "result": {
+    "item": "rsapi:scarlet_tome",
+    "count": 1
+  }
+}

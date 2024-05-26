@@ -1,0 +1,26 @@
+{
+  "item.rsapi.blank_stone_rune": "Blank Stone Rune",
+  "item.rsapi.blank_charred_rune": "Blank Charred Rune",
+  "item.rsapi.blank_void_rune": "Blank Void Rune",
+  "item.rsapi.scarlet_rune": "Scarlet Rune",
+  "item.rsapi.void_rune": "Void Rune",
+  "item.rsapi.verdant_rune": "Verdant Rune",
+  "item.rsapi.azure_rune": "Azure Rune",
+  "item.rsapi.golden_rune": "Golden Rune",
+  "item.rsapi.violet_rune": "Violet Rune",
+
+  "item.rsapi.ancient_tome": "Ancient Tome",
+  "item.rsapi.verdant_tome": "Verdant Tome",
+  "item.rsapi.azure_tome": "Azure Tome",
+  "item.rsapi.golden_tome": "Golden Tome",
+  "item.rsapi.violet_tome": "Violet Tome",
+  "item.rsapi.scarlet_tome": "Scarlet Tome",
+  "item.rsapi.void_tome": "Void Tome",
+
+  "block.rsapi.tanning_rack": "Tanning Rack",
+  "item.rsapi.tanned_leather": "Tanned Leather",
+  "item.rsapi.tanned_rabbit_hide": "Tanned Rabbit Hide",
+  "item.rsapi.parchment": "Parchment",
+
+  "item.minecraft.enchanted_tome": "Enchanted Tome"
+}

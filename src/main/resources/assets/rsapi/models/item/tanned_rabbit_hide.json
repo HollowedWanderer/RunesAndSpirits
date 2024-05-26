@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "rsapi:item/tanned_rabbit_hide"
+  },
+  "display": {
+    "gui_light": "front"
+  }
+}
